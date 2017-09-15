@@ -1,5 +1,5 @@
 # takeapp
-This is my second ever website, a little bit more advanced than my previous project.
+This is my second ever website, a little bit more advanced than my first project.
 
 Previev:
 
@@ -8,4 +8,5 @@ Previev:
 **Used Technologies:**
 * HTML5
 * CSS3
+* RWD
 * SASS (SCSS)
